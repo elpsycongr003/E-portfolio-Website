@@ -198,3 +198,7 @@ align-items: center;
   width: 100%;
   flex-wrap: wrap;
 }
+
+.language__name {
+  position: absolute;
+}
