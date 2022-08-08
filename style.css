@@ -203,4 +203,5 @@ align-items: center;
 
 .language__name {
   position: absolute;
+  bottom: 0;
 }
