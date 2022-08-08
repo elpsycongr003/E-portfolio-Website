@@ -184,6 +184,8 @@ align-items: center;
 
 .language {
   width: 25%;
+  display: flex;
+  justify-content: center;
 }
 
 .language__img--wrapper {
