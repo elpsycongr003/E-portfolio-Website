@@ -383,3 +383,9 @@ footer {
   transform: translateX(60px);
   opacity: 1;
 }
+
+/* Small phones, Tablets, Large smartphones */
+
+@media (max-width: 768px) {
+  
+}
