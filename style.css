@@ -310,10 +310,6 @@ footer {
   background-color: #242424;
 }
 
-.footer__logo {
-  margin-bottom: 20px;
-}
-
 .footer__social--list {
   margin-bottom: 28px;
   width: 100%;
@@ -344,4 +340,9 @@ footer {
 .footer__logo--popper {
   position: absolute;
   right: 0;
+}
+
+.footer__anchor {
+  margin-bottom: 20px;
+  position: relative;
 }
