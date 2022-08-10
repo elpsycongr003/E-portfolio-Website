@@ -340,3 +340,8 @@ footer {
 .footer__logo--popper {
   color: #fff;
 }
+
+.footer__logo--popper {
+  position: absolute;
+  right: 0;
+}
