@@ -336,7 +336,7 @@ footer {
 }
 
 .footer__social--link,
-.footer__copyright {
+.footer__copyright,
+.footer__logo--popper {
   color: #fff;
 }
-
